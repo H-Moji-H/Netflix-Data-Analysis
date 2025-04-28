@@ -34,10 +34,12 @@ The dataset provides metadata about Netflix’s catalog up to 2021, offering ric
 •	Converted the date_added column to proper datetime format.
 
 •	Extracted new features:
+
      o	year_added (Year content was added to Netflix)
      o	month_added (Month name content was added)
     
 •	Separated duration into:
+
     o	duration_num (Numerical part: minutes or seasons)
     o	duration_unit (Unit: minutes, season(s))
     
