@@ -8,73 +8,111 @@ In today's digital age, streaming services like Netflix have revolutionized ente
 
 The primary objectives of this project were:
 
-•	To understand the distribution and evolution of Netflix content over time.
-•	To explore the genres, ratings, and countries dominating the platform.
-•	To identify trends in content addition, audience targeting, and production patterns.
-•	To visualize key patterns and present actionable insights from the Netflix catalog data.
+    •	To understand the distribution and evolution of Netflix content over time.
+    •	To explore the genres, ratings, and countries dominating the platform.
+    •	To identify trends in content addition, audience targeting, and production patterns.
+    •	To visualize key patterns and present actionable insights from the Netflix catalog data.
 
 ## Dataset Overview
 
 •	Source: Kaggle — "Netflix Movies and TV Shows" dataset by Shivamb.
+
 •	Size: 8807 entries.
+
 •	Features:
-o	type: Movie or TV Show
-o	title, director, cast, country, date_added, release_year, rating, duration, listed_in, description
+    o	type: Movie or TV Show
+    o	title, director, cast, country, date_added, release_year, rating, duration, listed_in, description
 The dataset provides metadata about Netflix’s catalog up to 2020, offering rich opportunities for exploration and trend discovery.
 
 ## Feature Engineering
 
 •	Converted the date_added column to proper datetime format.
+
 •	Extracted new features:
-o	year_added (Year content was added to Netflix)
-o	month_added (Month name content was added)
+    o	year_added (Year content was added to Netflix)
+    o	month_added (Month name content was added)
+    
 •	Separated duration into:
-o	duration_num (Numerical part: minutes or seasons)
-o	duration_unit (Unit: minutes, season(s))
+    o	duration_num (Numerical part: minutes or seasons)
+    o	duration_unit (Unit: minutes, season(s))
+    
 This transformation helped streamline the time-based and duration-based analyses.
-Exploratory Data Analysis (EDA) and Insights
-1. Content Type Distribution
+
+## Exploratory Data Analysis (EDA) and Insights
+
+### 1. Content Type Distribution
+
 •	Movies dominate the Netflix catalog with over 6000 titles, while TV Shows are fewer but still significant (~2500 titles).
-2. Content Added Over the Years
+
+### 2. Content Added Over the Years
+
 •	Content additions rose sharply from 2015.
+
 •	Peaked in 2019 with over 2000 titles added.
+
 •	Reflects Netflix's aggressive expansion strategy leading into 2020.
-3. Release Year Distribution
+
+### 3. Release Year Distribution
+
 •	The number of releases steadily grew.
+
 •	2020 recorded the highest number of releases, exceeding 3500.
-4. Ratings Distribution
+
+### 4. Ratings Distribution
+
 •	TV-MA (Mature Audiences Only) is the most common rating, suggesting Netflix leans heavily into mature content.
+
 •	G (General Audience) content is comparatively rare.
-5. Top Production Countries
+
+### 5. Top Production Countries
+
 •	USA leads by a large margin (~2500 titles).
+
 •	India follows, contributing about 1000 titles, showcasing growing international content.
-6. TV Shows Seasons Analysis
+
+### 6. TV Shows Seasons Analysis
+
 •	Most TV Shows have only 1 season, with over 1750 entries.
+
 •	Indicates a trend towards short-format series or pilot seasons.
-7. Genre Analysis
+
+### 7. Genre Analysis
+
 •	Top Genres:
-o	International Movies
-o	Dramas
-o	Comedies
+    o	International Movies
+    o	Dramas
+    o	Comedies
+    
 •	Highlights a strong focus on globally appealing and emotionally engaging content.
-8. Word Cloud Analysis of Descriptions
+
+### 8. Word Cloud Analysis of Descriptions
+
 •	Common words: life, find, family, love, world.
+
 •	Thematic emphasis on relationships, discovery, and human experiences.
-9. Content Added by Month
+
+### 9. Content Added by Month
+
 •	July is the most popular month for adding new content.
+
 •	February sees the least content additions.
 
 ## Key Findings
 
 •	Netflix's growth trajectory accelerated from 2015, peaking before the COVID-19 pandemic.
+
 •	Content strategy favors mature audiences and international expansion.
+
 •	Movies far outnumber TV Shows.
+
 •	July could be a strategic month for Netflix releases, possibly to capture summer viewership.
 
 ## Results
 
 •	Netflix focuses heavily on short-format TV shows, mature audiences, and international genres.
+
 •	USA and India dominate production, but there's a healthy diversity of countries contributing.
+
 •	Monthly content additions suggest strategic planning, not random uploads.
 
 ## Conclusion
