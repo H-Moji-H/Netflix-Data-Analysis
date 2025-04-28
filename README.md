@@ -69,7 +69,7 @@ This transformation helped streamline the time-based and duration-based analyses
 
 •	TV-MA (Mature Audiences Only) is the most common rating, suggesting Netflix leans heavily into mature content.
 
-•	G (General Audience) content is comparatively rare.
+•	G (General Audience) is the least frequent..
 
 ### 5. Top Production Countries
 
@@ -86,6 +86,7 @@ This transformation helped streamline the time-based and duration-based analyses
 ### 7. Genre Analysis
 
 •	Top Genres:
+
     o	International Movies
     o	Dramas
     o	Comedies
