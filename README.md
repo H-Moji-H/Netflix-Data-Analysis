@@ -3,20 +3,27 @@
 ## Introduction
 
 In today's digital age, streaming services like Netflix have revolutionized entertainment consumption. To better understand Netflix's content strategy and trends, we performed an in-depth analysis of the available shows and movies on their platform. This project explores key insights such as content type distribution, release trends, ratings, genres, and popular production countries.
-Objective
+
+## Objective
+
 The primary objectives of this project were:
+
 •	To understand the distribution and evolution of Netflix content over time.
 •	To explore the genres, ratings, and countries dominating the platform.
 •	To identify trends in content addition, audience targeting, and production patterns.
 •	To visualize key patterns and present actionable insights from the Netflix catalog data.
-Dataset Overview
+
+## Dataset Overview
+
 •	Source: Kaggle — "Netflix Movies and TV Shows" dataset by Shivamb.
-•	Size: 7787 entries.
+•	Size: 8807 entries.
 •	Features:
 o	type: Movie or TV Show
 o	title, director, cast, country, date_added, release_year, rating, duration, listed_in, description
 The dataset provides metadata about Netflix’s catalog up to 2020, offering rich opportunities for exploration and trend discovery.
-Feature Engineering
+
+## Feature Engineering
+
 •	Converted the date_added column to proper datetime format.
 •	Extracted new features:
 o	year_added (Year content was added to Netflix)
@@ -56,15 +63,21 @@ o	Comedies
 9. Content Added by Month
 •	July is the most popular month for adding new content.
 •	February sees the least content additions.
-Key Findings
+
+## Key Findings
+
 •	Netflix's growth trajectory accelerated from 2015, peaking before the COVID-19 pandemic.
 •	Content strategy favors mature audiences and international expansion.
 •	Movies far outnumber TV Shows.
 •	July could be a strategic month for Netflix releases, possibly to capture summer viewership.
-Results
+
+## Results
+
 •	Netflix focuses heavily on short-format TV shows, mature audiences, and international genres.
 •	USA and India dominate production, but there's a healthy diversity of countries contributing.
 •	Monthly content additions suggest strategic planning, not random uploads.
-Conclusion
+
+## Conclusion
+
 The Netflix catalog exhibits clear trends in content type, target audience, and production origins. The platform emphasizes mature, internationally themed entertainment, while balancing between movies and limited-series TV shows. The data reveals that strategic timing, genre diversity, and audience segmentation are core to Netflix's continued growth and global dominance.
 
