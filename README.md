@@ -107,13 +107,19 @@ This transformation helped streamline the time-based and duration-based analyses
 
 ## Key Findings
 
-•	Netflix's growth trajectory accelerated from 2015, peaking before the COVID-19 pandemic.
+•	Genres like international movies, dramas, and comedies are most prevalent.
 
-•	Content strategy favors mature audiences and international expansion.
+•	Netflix's growth trajectory accelerated from 2015, peaking before the COVID-19 pandemic(2019).
+
+•	Content released in 2020 was exceptionally high.
+
+•	Content strategy favors mature audiences(TV-MA) and international expansion.
 
 •	Movies far outnumber TV Shows.
 
-•	July could be a strategic month for Netflix releases, possibly to capture summer viewership.
+•	The USA and India are the top contributors to Netflix’s catalog.
+
+•	July tends to have the highest number of content uploads. This could be a strategic month for Netflix releases, possibly to capture summer viewership.
 
 ## Results
 
