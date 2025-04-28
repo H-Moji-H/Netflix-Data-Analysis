@@ -8,10 +8,10 @@ In today's digital age, streaming services like Netflix have revolutionized ente
 
 The primary objectives of this project were:
 
-    •	To understand the distribution and evolution of Netflix content over time.
-    •	To explore the genres, ratings, and countries dominating the platform.
-    •	To identify trends in content addition, audience targeting, and production patterns.
-    •	To visualize key patterns and present actionable insights from the Netflix catalog data.
+•	To understand the distribution and evolution of Netflix content over time.
+•	To explore the genres, ratings, and countries dominating the platform.
+•	To identify trends in content addition, audience targeting, and production patterns.
+•	To visualize key patterns and present actionable insights from the Netflix catalog data.
 
 ## Dataset Overview
 
