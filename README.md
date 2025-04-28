@@ -24,6 +24,7 @@ The dataset used for this analysis was sourced from Kaggle ("Netflix Shows" by S
 It contains information about Netflix titles. Its features include:
 
 o	type: Movie or TV Show
+
 o	show_id, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description
 
 The dataset provides metadata about Netflix’s catalog up to 2021, offering rich opportunities for exploration and trend discovery.
