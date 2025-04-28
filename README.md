@@ -17,15 +17,16 @@ The primary objectives of this project were:
 •	To visualize key patterns and present actionable insights from the Netflix catalog data.
 
 ## Dataset Overview
-
-•	Source: Kaggle — "Netflix Movies and TV Shows" dataset by Shivamb.
+The dataset used for this analysis was sourced from Kaggle ("Netflix Shows" by Shivamb).
 
 •	Size: 8807 entries.
 
-•	Features:
-    o	type: Movie or TV Show
-    o	title, director, cast, country, date_added, release_year, rating, duration, listed_in, description
-The dataset provides metadata about Netflix’s catalog up to 2020, offering rich opportunities for exploration and trend discovery.
+It contains information about Netflix titles. Its features include:
+
+o	type: Movie or TV Show
+o	show_id, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description
+
+The dataset provides metadata about Netflix’s catalog up to 2021, offering rich opportunities for exploration and trend discovery.
 
 ## Feature Engineering
 
