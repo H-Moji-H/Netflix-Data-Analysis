@@ -27,7 +27,7 @@ It contains information about Netflix titles. Its features include:
 
      o	show_id, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description
 
-The dataset provides metadata about Netflix’s catalog up to 2021, offering rich opportunities for exploration and trend discovery.
+The dataset provides metadata about Netflix’s catalog up to 2021 thus offering rich opportunities for exploration and trend discovery.
 
 ## Feature Engineering
 
