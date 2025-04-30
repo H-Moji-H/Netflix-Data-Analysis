@@ -63,7 +63,7 @@ This transformation helped streamline the time-based and duration-based analyses
 
 •	The number of releases steadily grew.
 
-•	2020 recorded the highest number of releases, exceeding 3500.
+•	2019 recorded the highest number of releases, exceeding 3500.
 
 ### 4. Ratings Distribution
 
