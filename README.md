@@ -111,7 +111,7 @@ This transformation helped streamline the time-based and duration-based analyses
 
 •	Netflix's growth trajectory accelerated from 2015, peaking before the COVID-19 pandemic(2019).
 
-•	Content released in 2020 was exceptionally high.
+•	Content released in 2019 was exceptionally high.
 
 •	Content strategy favors mature audiences(TV-MA) and international expansion.
 
