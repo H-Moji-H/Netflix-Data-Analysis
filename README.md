@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In today's digital age, streaming services like Netflix have revolutionized entertainment consumption. To better understand Netflix's content strategy and trends, we performed an in-depth analysis of the available shows and movies on their platform. This project explores key insights such as content type distribution, release trends, ratings, genres, and popular production countries.
+In today's digital age, streaming services like Netflix have revolutionized entertainment consumption. To better understand Netflix's content strategy and trends, we performed an in-depth analysis of the available shows and movies on their platform. The project explores key insights such as content type distribution, release trends, ratings, genres, and popular production countries.
 
 ## Objective
 
