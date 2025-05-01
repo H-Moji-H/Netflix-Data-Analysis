@@ -19,7 +19,8 @@ The primary objectives of this project are:
 ## Dataset Overview
 The dataset used for this analysis was sourced from Kaggle ("Netflix Shows" by Shivamb).
 
-•	Size: 8807 entries.
+•	Size: 8807 entries, 12 columns.
+
 
 It contains information about Netflix titles. Its features include:
 
