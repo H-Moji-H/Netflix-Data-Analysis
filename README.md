@@ -137,7 +137,7 @@ Netflix has evolved from a regional service to a global entertainment powerhouse
 
 The Netflix catalog exhibits clear trends in content type, target audience, and production origins. The platform emphasizes mature audiences, internationally themed entertainment, while balancing between movies (majorly) and limited-series TV shows. The data reveals sources a lot of content from the United States and India. It also reveals that strategic timing, genre diversity, and audience segmentation are core to Netflix's continued growth and global dominance.
 
-### Future work could involve:
+### Future analysis could involve:
 
 •	Further Sentiment analysis of content descriptions.
 
