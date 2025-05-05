@@ -139,7 +139,7 @@ The Netflix catalog exhibits clear trends in content type, target audience, and 
 
 ### Future analysis could involve:
 
-•	Further Sentiment analysisofcontentdescriptions.
+•	Further Sentiment analysis ofcontentdescriptions.
 
 •	Time series forecasting for future content additions.
 
