@@ -12,7 +12,7 @@ The primary objectives of this project are:
 
 •	To explore the genres, ratings, and countries dominating the platform.
 
-•	To identify trends in content addition,audience targeting, and production patterns.
+•	To identify trends in content addition, audience targeting, and production patterns.
 
 •	To visualize key patterns and present actionable insights from the Netflix catalog data.
 
