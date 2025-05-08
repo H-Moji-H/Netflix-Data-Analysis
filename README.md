@@ -97,6 +97,7 @@ This transformation helped streamline the time-based and duration-based analyses
 ### 8. Word Cloud Analysis of Descriptions
 
 •	Common words: 
+
           life 
           find 
           family 
