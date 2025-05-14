@@ -6,7 +6,7 @@ In today's digital age, streaming services like Netflix have revolutionized ente
 
 ## Objective
 
-The primary objectives of this project are:
+The primary objectives of this projectare:
 
 •	To understand the distribution and evolution of Netflix content over time.
 
