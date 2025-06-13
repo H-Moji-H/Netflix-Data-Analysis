@@ -141,7 +141,7 @@ This exploratory analysis provides a comprehensive overview of the Netflix conte
 
 Netflix has evolved from a regional service to a global entertainment powerhouse with diversified content. Understanding the trends in content types, genres, and production origins helps content strategists, marketers, and researchers understand both the past and future trajectory of streaming content.
 
-The Netflix catalog exhibits clear trends in content type, target audience, and production origins. The platform emphasizes mature audiences, internationally themed entertainment, while balancing between movies (majorly) and limited-series TV shows. The data reveals sources a lot of content from the United States and India. It also reveals that strategic timing, genre diversity, and audience segmentation are core to Netflix's continued growth and global dominance.
+The Netflix catalog exhibits clear trends in content type, target audience, and production origins. The platform emphasizes mature audiences, internationally themed entertainment, while balancing between movies (majorly) and limited-series TV shows. The data reveals that sources a lot of content from the United States and India. It also reveals that strategic timing, genre diversity, and audience segmentation are core to Netflix's continued growth and global dominance.
 
 ### Future analysis could involve:
 
