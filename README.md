@@ -68,7 +68,8 @@ This transformation helped streamline the time-based and duration-based analyses
 
 ### 4. Ratings Distribution
 
-•	TV-MA (Mature Audiences Only) is the most common rating, suggesting Netflix leans heavily into mature content.
+•	TV-MA (Mature Audiences Only) is the most common rating, 
+suggesting Netflix leans heavily into mature content.
 
 •	G (General Audience) is the least frequent.
 
