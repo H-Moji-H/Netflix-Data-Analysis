@@ -126,7 +126,8 @@ This transformation helped streamline the time-based and duration-based analyses
 
 •	The USA and India are the top contributors to Netflix’s catalog.
 
-•	July tends to have the highest number of content uploads. This could be a strategic month for Netflix releases, possibly to capture summer viewership.
+•	July tends to have the highest number of content uploads. 
+This could be a strategic month for Netflix releases, possibly to capture summer viewership.
 
 ## Results
 This exploratory analysis provides a comprehensive overview of the Netflix content landscape. It highlights growth patterns, user preferences (via ratings and genres), and international contributions to Netflix’s ever-growing catalog.
