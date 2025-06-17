@@ -115,7 +115,8 @@ suggesting Netflix leans heavily into mature content.
 
 ## Key Findings
 
-•	Genres like international movies, dramas, and comedies are most prevalent.
+•	Genres like international 
+movies, dramas, and comedies are most prevalent.
 
 •	Netflix's growth trajectory accelerated from 2015, peaking before the COVID-19 pandemic(2019).
 
