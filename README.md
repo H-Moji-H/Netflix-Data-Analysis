@@ -152,7 +152,7 @@ The data reveals that Netflix sources a lot of content from the United States an
 
 1. Further Sentiment analysis of content descriptions.
 
-•	Time series forecasting for future content additions.
+2.	Time series forecasting for future content additions.
 
 •	Audience engagement analysis using viewership data.
 
